@@ -1,0 +1,129 @@
+{
+	"path" : "/Users/michaelstadelmann/projects/nodejs/resources/",
+	"babeljs": {
+		"minified" : "js/loader.test.babel.js",
+		"sourcemap" : null,
+		"jsfiles" : [
+			"js/Vendor/first.js",
+			"js/Vendor/modernizr.js",
+			"js/Vendor/toast.js",
+			
+			"js/Vendor/spin.js",
+			"js/streamsense.min.js",
+			"js/smarttag.js",
+			
+			"js/softclick.min.js",
+			
+			"js/Vendor/jQuery/jquery-1.11.0.min.js",
+			"js/Vendor/jQuery/plugins/waitForImages/jquery.waitforimages.js",
+			
+			"js/Vendor/plugins.js",
+			"js/Vendor/snap.svg.js",
+			"js/Vendor/owl/owl.support.js",
+			"js/Vendor/owl/owl.support.modernizr.js",
+			"js/Vendor/owl/owl.carousel.js",
+			"js/Vendor/owl/owl.autorefresh.js",
+			"js/Vendor/owl/owl.animate.js",
+			"js/Vendor/owl/owl.navigation.js",
+			
+			"js/Application.js",
+			
+			"js/Util/ObjectUtil.js",
+			"js/Components/quiz.js",
+			"js/Components/InfoLayer.js",
+			"js/Components/AutoSlide.js",
+			"js/Animation/BaseAnimations.js",
+			"js/Components/Tracking.js",
+			"js/Components/Rating.js",	
+			
+			"js/Controller/BaseController.js",
+			"js/Controller/CollapsibleController.js",
+			"js/Controller/PlayerController.js",
+			"js/Controller/ImageController.js",
+			
+			"js/Controller/LoadableController.js",
+			"js/Controller/TableController.js",
+			"js/Controller/FormularController.js",
+			"js/Controller/LayoutController.js",
+			"js/Controller/LinkController.js",
+			"js/Controller/FilterController.js",
+			
+			"js/Controller/AnimationController.js",
+			"js/Controller/BigStageController.js",
+			"js/Controller/ChristmasStageController.js",
+			"js/Controller/CustomBigStageController.js",
+			
+			"js/Controller/NavigationController.js",		
+			"js/Controller/LightboxController.js",
+			"js/Controller/LayerController.js",
+			"js/Controller/LightboxSourceController.js",
+			"js/Controller/ScrollController.js",
+			"js/Controller/GalleryController.js",
+			"js/Controller/LivestreamProgress.js",
+			"js/Controller/IPGNewController.js",
+			
+			
+			
+			"js/Controller/StaticHTMLController.js",
+			"js/Controller/SearchController.js",
+			"js/Controller/TabableController.js",
+			"js/Controller/OwlControllerConfig.js",
+			"js/Controller/OwlController.js",
+			"js/Controller/AudioButtonController.js",
+			"js/Controller/CommunityController.js",
+			"js/Controller/FixFloatController.js",
+			"js/Controller/RatingController.js",
+			
+			
+			"js/Controller/CustomsliderController.js",	
+			
+			"js/Controller/Utils.js",
+			"js/MediaMatcher/src/MediaMatcher.js",
+			
+			"js/init.js",
+			
+			"player/js/swfobject.js",
+			"player/js/hls.min.js",
+			
+			"player/js/greensock/CSSPlugin.min.js",
+			"player/js/greensock/EasePack.min.js",
+			"player/js/greensock/TweenLite.min.js",
+			
+			
+			"player/js/plugins.js",
+			
+			"player/js/core/brav.api.js",
+			"player/js/client/kika/brav.client.kika.js",
+			
+			"player/js/core/brav.Utils.js",
+			"player/js/core/HTML5PlayerFactory.js",
+			"player/js/core/HTML5Player.js",
+			
+			"player/js/client/kika/brav.client.kika.js",
+			
+			"player/js/client/kika/brav.client.kika.PlayerControls.js",
+			"player/js/client/kika/brav.client.kika.Buffer.js",
+			
+			"player/js/client/kika/brav.client.kika.XMLParser.js",		
+			"player/js/client/kika/modules/brav.module.ErrorHandler.js",
+			"player/js/client/kika/modules/brav.module.Subtitles.js",
+			"player/js/client/kika/modules/brav.module.Endscreen.js",
+			"player/js/client/kika/modules/brav.module.InfoLayer.js",
+			"player/js/client/kika/modules/brav.module.Tracking.js",
+			"player/js/client/kika/modules/brav.module.Streamsense.js",
+			"player/js/client/kika/modules/brav.module.NielsenSDKTracking.js",
+			
+			"player/js/client/kika/modules/brav.module.AtiTracking.js",
+			
+			"player/js/client/kika/brav.config.kika.js"
+
+		]
+	},
+	"uglifyjs" : {
+		"jsfiles" : [
+			"js/loader.test.babel.js"
+		],	
+		"minified" : "js/loader-min.test.js",
+		"sourcemap" : "js/loader-min.test.js.map"
+	}
+}

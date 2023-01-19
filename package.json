@@ -1,0 +1,16 @@
+{
+  "name": "kika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack": "node app.js ./uglifyjs.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "uglify-js": "^3.6.0"
+  }
+}
